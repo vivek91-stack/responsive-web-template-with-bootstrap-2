@@ -1,1 +1,1 @@
-# responsive-web-template-with-bootstrap-3
+# responsive-web-template-with-bootstrap-2
